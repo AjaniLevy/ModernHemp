@@ -7,5 +7,6 @@ Hemps = {
         "Berry-Sage" : 6,
         "Crispy-Orange" : 5,
         "Nasty-Vomitious" : 12,
-        "Mellow Yellow" : 9   
+        "Mellow Yellow" : 9, 
+        "Killer-Barf" : 8
         }
